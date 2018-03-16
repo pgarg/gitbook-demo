@@ -4,9 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 
-\#
-
-Defining Methods
+## Defining Methods
 
 
 
@@ -16,12 +14,10 @@ Methods allow you to smoothly display code examples in different languages.
 
 {% method %}
 
-\#\# My first method
-
+### My first method
 
 
 My first method exposes how to print a message in JavaScript and Go.
-
 
 
 {% sample lang="js" %}
@@ -29,13 +25,11 @@ My first method exposes how to print a message in JavaScript and Go.
 Here is how to print a message to \`stdout\` using JavaScript.
 
 
-
-\`\`\`js
+```js
 
 console.log\('My first method'\);
 
-\`\`\`
-
+```
 
 
 {% sample lang="go" %}
@@ -44,12 +38,11 @@ Here is how to print a message to \`stdout\` using Go.
 
 
 
-\`\`\`go
+```go
 
 fmt.Println\("My first method"\)
 
-\`\`\`
-
+```
 
 
 {% common %}
@@ -57,12 +50,11 @@ fmt.Println\("My first method"\)
 Whatever language you are using, the result will be the same.
 
 
-
-\`\`\`bash
+```bash
 
 $ My first method
 
-\`\`\`
+```
 
 {% endmethod %}
 
