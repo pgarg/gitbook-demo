@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Ignite Facts](ignite-facts.md)
-* New Article
+* [New Article](new-article.md)
 
 ## Part I
 
